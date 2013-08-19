@@ -12,3 +12,4 @@ objects:
 * HTML5 Canvas-like drawing methods
 * Border width and border radius
 * Non-discrete and non-limited layering system
+* Create a default screen ratio
