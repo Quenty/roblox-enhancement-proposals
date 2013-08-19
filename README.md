@@ -1,4 +1,3 @@
-ROBLOX-Improvements
-===================
+This repository is used to collectively gather and produce ROBLOX enhancement proposals (REPs). Proposals are first created on the repository's wiki (which anyone can edit). Then, they can be discussed on the issue tracker. Once they are fully ready, they can be moved to the repository's code area, where they will constitute full documents that contain proposals to improve ROBLOX and the rationale between those proposals. The repository's code area can also be used to host files having to do with the proposals (such as sketches, drawings, schemas, etc.).
 
-A repository containing a bunch of improvements (suggestions) that would make ROBLOX better.
+If you have a proposal to improve ROBLOX, you can start an issue in the issue tracker to discuss it. Once your idea is clear enough, create a page on the wiki describing your idea. Other members may discuss the proposal on the issue tracker. It will be refined on the wiki, and once ready, it may be moved into the repository's code area.
