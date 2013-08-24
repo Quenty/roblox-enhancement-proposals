@@ -1,3 +1,5 @@
+# Proposal concerning the storage services currently being tested
+
 For a long time, the lighting service has been used on ROBLOX to store objects. This is semantically incorrect, but since the lighting offered a static environment where all objects except skybox objects had no effect, this was regarded as an acceptable solution. However, this is still semantically incorrect and does not give us control over replication. Storage services have been introduced on gametest5 which should solve this problem. However, they are not perfect.
 
 ## Problem
