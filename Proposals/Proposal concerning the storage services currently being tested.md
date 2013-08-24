@@ -10,6 +10,6 @@ Currently, on gametest5, there are two services: `ServerStorage`, the contents o
 
 This proposal suggests:
 
-* Renaming the current `ServerStorage` class to `LocalStorage` and not changing its behavior.
-* Making `ReplicatedStorage` not replicate from the client to the server.
-* Adding a class called `GlobalStorage` which replicates from the client to the server and from the server to the client.
+* Renaming the current `ServerStorage` class to `PrivateStorage` and not changing its behavior.
+* Making `ReplicatedStorage` not replicate from the client to the server and renaming it to `ProtectedStorage`.
+* Adding a class called `PublicStorage` which replicates from the client to the server and from the server to the client.
