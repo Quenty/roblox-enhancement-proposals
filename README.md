@@ -4,5 +4,7 @@ If you have a proposal to improve ROBLOX, you can start an issue in the issue tr
 
 The main idea with this repository is that proposals are worked on collaboratively. Inactive proposals that stagnate in the wiki may be removed after a discussion on the issue tracker. Proposals in the repository that get implemented in their entirety will be moved to a separate branch, while proposals that get implemented partially will be moved back to the wiki to adapt the proposal to the current situation (since a part of it was already applied). Proposals can be modified after being moved in the repository; this is done by discussing on the issue tracker and using pull requests.
 
-**Proposals:**
+**Completed proposals:**
 * [Proposal concerning the storage services currently being tested](https://github.com/RobloxLabs/roblox-enhancement-proposals/blob/master/Proposals/Proposal%20concerning%20the%20storage%20services%20currently%20being%20tested.md)
+
+**Proposals in development:** [see the wiki's home page](https://github.com/RobloxLabs/roblox-enhancement-proposals/wiki)
