@@ -13,3 +13,8 @@ This proposal suggests:
 * Renaming the current `ServerStorage` class to `PrivateStorage` and not changing its behavior.
 * Making `ReplicatedStorage` not replicate from the client to the server and renaming it to `ProtectedStorage`.
 * Adding a class called `PublicStorage` which replicates from the client to the server and from the server to the client.
+
+
+`PrivateStorage` would be accessable by ever script.
+`ProtectedStorage` would be accessable by the Server-Side scripts only
+`PublicStorage` would be accessable by the server and by a single client.  One would exist PER A CLIENT, and would be parented into the Player.  This is stupid.
